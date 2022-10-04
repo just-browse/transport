@@ -1,5 +1,5 @@
 {
-  "name": "transport",
+  "name": "@just-browse/transport",
   "version": "0.1.0",
   "description": "JustBrowse transport for puppeteer-core",
   "main": "build/index.js",
